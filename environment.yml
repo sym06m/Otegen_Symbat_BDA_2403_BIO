@@ -1,0 +1,19 @@
+name: p18
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.11
+  - snakemake>=8
+  - spades
+  - flye
+  - quast
+  - minimap2
+  - samtools
+  - bcftools
+  - bwa
+  - polypolish
+  - fastp
+  - nanoplot
+  - rasusa
+  - seqkit
+  - pandas
+  - matplotlib

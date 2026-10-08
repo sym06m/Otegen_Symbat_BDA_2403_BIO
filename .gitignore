@@ -1,0 +1,12 @@
+data/*
+!data/PROVENANCE.tsv
+sub/
+asm/
+logs/
+.snakemake/
+*.bam
+*.bai
+*.fastq*
+*.fq.gz
+*.sam
+__pycache__/

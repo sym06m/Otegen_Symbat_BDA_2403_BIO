@@ -1,0 +1,13 @@
+organism: "Escherichia coli K-12 MG1655"
+reference_accession: "GCF_000005845.2"        # = NC_000913.3
+reference_url: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz"
+genome_size: 4641652
+short_acc: "SRR1030394"     # Illumina MiSeq 2x251
+long_acc: "ERR14686234"     # Nanopore MinION (ciprofloxacin-resistant mutant C57)
+covs: [10, 20, 30]
+rep_seed: 43
+rep_covs: [20, 30]
+hybrid: {short: 30, long: 20}
+seed: 42
+threads: 2
+flye_mode: "--nano-raw"
