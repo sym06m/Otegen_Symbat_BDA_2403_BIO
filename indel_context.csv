@@ -1,0 +1,6 @@
+assembly,snps,insertions,deletions,indels_in_hp>=4_pct,baseline_ref_pos_in_hp>=4_pct,hp1,hp2,hp3,hp4,hp5,hp6plus
+short_30x,73,1,9,10.0,5.9,5,4,0,1,0,0
+long_20x,269,236,1410,81.4,5.9,181,45,80,143,266,931
+long_30x-rep43,69,62,1122,91.3,5.9,56,11,36,73,186,822
+polish_s30_l20,85,21,29,48.0,5.9,19,6,1,5,2,17
+hybridspades_s30_l20,211,9,11,5.0,5.9,12,7,0,1,0,0

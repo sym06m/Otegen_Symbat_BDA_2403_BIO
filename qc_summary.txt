@@ -1,0 +1,12 @@
+FASTP (short reads; fastp -q 20 -l 100 --cut_tail --cut_tail_mean_quality 20 --detect_adapter_for_pe)
+reads before/after: 5441912 / 4433204
+bases before/after: 1322136908 / 1062735631
+Q30 rate before/after: 0.779 / 0.852
+mean len R1/R2 before: 242 / 243; after: 242 / 236
+duplication rate: 0.0012
+adapter-trimmed reads: 60204
+filtering result: passed 4433204, low_quality 934334, too_short 74374, too_many_N 0
+
+NANOPLOT (long reads, no filtering applied)
+Mean read length 2,247.4 | Median 1,037 | N50 4,982 | reads 74,354 | total bases 167,106,193
+Mean read quality 12.9 | >Q10 95.9% | >Q15 17.9% | >Q20 0.1% | >Q25 0%

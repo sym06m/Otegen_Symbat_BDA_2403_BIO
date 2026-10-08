@@ -1,0 +1,5 @@
+long_30x (seed 42): Flye produced 6 contigs, total 9,462,452 bp (about 2x the genome), duplication ratio 1.994.
+contig_2 (3,274,133 bp) and contig_3 (3,274,130 bp) both align end-to-end to the same reference region
+(aligned/len = 1.00 each); QUAST genome fraction collapsed to 22.1%. => duplicated contigs, run excluded from curves.
+Replicate (seed 43, 30x): 8 contigs, N50 3,806,532, genome fraction 99.829%, duplication ratio 1.001.
+Circular contig_6 (85,307 bp, ~30x depth) aligns to the reference for only 6% of its length: possible extrachromosomal element (to be checked with BLAST).

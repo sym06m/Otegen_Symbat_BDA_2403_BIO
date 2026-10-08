@@ -1,0 +1,4 @@
+STRAIN CHECK (short reads, 30x subsample, minimap2 -ax sr, bcftools call --ploidy 1, QUAL>=30 & DP>=10)
+SNPs vs NC_000913.3 = 2, indels = 3
+short reads mapped: 98.48% (properly paired 92.64%)
+long reads mapped (minimap2 -ax map-ont): 95.14% (primary 94.85%)

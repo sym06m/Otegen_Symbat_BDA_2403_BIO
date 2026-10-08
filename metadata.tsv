@@ -1,0 +1,3 @@
+	run_accession	scientific_name	sample_title	instrument_model	library_strategy	library_layout	read_count	base_count	coverage_x	mean_read_len
+short	SRR1030394	Escherichia coli str. K-12 substr. MG1655	MIGS Cultured Bacterial/Archaeal sample from Escherichia coli MG1655	Illumina MiSeq	WGS	PAIRED	2720956	1322136908	284.8	486
+long	ERR14686234	Escherichia coli str. K-12 substr. MG1655	Ciprofloxacin resistant mutant C57	MinION	WGS	SINGLE	74354	167106193	36.0	2247
